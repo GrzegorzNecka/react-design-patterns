@@ -1,6 +1,6 @@
-<div id="root"></div>
-import React from "react";
-import "./style.css";
+<div id="root" />;
+import React from 'react';
+import './style.css';
 
 export default function App() {
   return (
