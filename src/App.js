@@ -1,4 +1,3 @@
-<div id="root" />;
 import React from 'react';
 import './style.css';
 
